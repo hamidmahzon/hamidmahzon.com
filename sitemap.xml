@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://hamidmahzon.com/</loc>
+  <lastmod>2023-03-26T07:39:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hamidmahzon.com/project</loc>
+  <lastmod>2023-03-26T07:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hamidmahzon.com/resume</loc>
+  <lastmod>2023-03-26T07:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hamidmahzon.com/video</loc>
+  <lastmod>2023-03-26T07:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hamidmahzon.com/index.php/note?page=1</loc>
+  <lastmod>2023-03-27T07:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hamidmahzon.com/index.php/note?page=2</loc>
+  <lastmod>2023-03-28T07:34:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url><url>
+  <loc>https://hamidmahzon.com/index.php/note?page=3</loc>
+  <lastmod>2023-03-29T07:30:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url><url>
+  <loc>https://hamidmahzon.com/index.php/note?page=4</loc>
+  <lastmod>2023-03-30T07:40:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>

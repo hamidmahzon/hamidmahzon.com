@@ -1,0 +1,7 @@
+CRITICAL - 2023-03-27 23:14:41 --> Undefined array key "HTTP_REFERER"
+in APPPATH/Controllers/HomeController.php on line 30.
+ 1 APPPATH/Controllers/HomeController.php(30): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HomeController->lang()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
